@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Temperature"
+        android:id="@+id/menu_option_temp"
+        android:icon="@drawable/temperature"
+        />
+    <item
+        android:title="Light"
+        android:id="@+id/menu_option_light"
+        android:icon="@drawable/light"
+        />
+    <item
+        android:title="Water"
+        android:id="@+id/menu_option_water"
+        android:icon="@drawable/water"
+        />
+
+</menu>

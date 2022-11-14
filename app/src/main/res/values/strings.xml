@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">InksApp </string>
+    <string name="dev_name">Kamate Katende Timothee</string>
+    <string name="designed_by">Developed by</string>
+    <string-array name="province">
+        <item><font size="12">Select province</font></item>
+        <item>Kigali</item>
+        <item>Western</item>
+        <item>Eastern</item>
+        <item>Southern</item>
+    </string-array>
+    <string-array name="district">
+        <item><font size="12">Select District</font></item>
+        <item>Gasabo</item>
+    </string-array>
+    <string-array name="gender">
+        <item><font size="12">Select Gender</font></item>
+        <item>M</item>
+        <item>F</item>
+    </string-array>
+    <string name="edittext_hint_first_name"><font size="12">first name</font></string>
+    <string name="edittext_hint_last_name"><font size="12">last name</font></string>
+    <string name="edittext_hint_email"><font size="12">email</font></string>
+    <string name="edittext_hint_phone"><font size="12">phone number</font></string>
+    <string name="edittext_hint_kg"><font size="12">kg number</font></string>
+    <string name="edittext_hint_width"><font size="12">poultry width</font></string>
+    <string name="edittext_hint_height"><font size="12">poultry height</font></string>
+    <string name="edittext_hint_poultry"><font size="12">poultry name</font></string>
+    <string name="edittext_hint_password"><font size="12">password</font></string>
+    <string name="textview_select_gender"><font size="12">Select gender</font></string>
+    <string name="textview_select_province"><font size="12">Select province</font></string>
+    <string name="textview_select_district"><font size="12">Select district</font></string>
+    <string name="textview_poultry_size"><font size="12">Specify poultry size(m*m)</font></string>
+    <string name="edittext_hint_new"><font size="12">Are you new to InksApp ?</font></string>
+    <string name="go_to_monitor">Monitoring</string>
+    <string name="go_to_control">Remote Control</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
